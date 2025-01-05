@@ -1,5 +1,10 @@
 # CODSOFT
 CodSoft Machine Learning Internship (dec-15-2024  -->  jan-15-2025)
+# Note: For viewing the working of the code:
+            - go to Google colab (click on the link)
+            - upload the spam.csv file.
+              -then run the code
+            
 
 ## Task 4 
 {SPAM SMS DETECTION}
