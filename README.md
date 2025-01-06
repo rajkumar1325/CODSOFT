@@ -9,3 +9,5 @@ Build an AI model that can classify SMS messages as spam or legitimate. Use tech
             - go to Google colab (click on the link)
             - upload the spam.csv file.
               -then run the code
+
+
