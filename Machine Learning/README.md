@@ -6,8 +6,8 @@ CodSoft Machine Learning Internship (dec-15-2024  -->  jan-15-2025)
 3. _Then, proceed._
 
 
-#### codsoft_1
-## Movie Genre Classification
+
+## Movie Genre Classification    #### codsoft_1
 **Problem Statement:**  _Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. Youcan use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support VectorMachines_
 [Dataset](https://drive.google.com/drive/folders/1neXU9EnhMex9dc0u670Am22n9XDII4ht?usp=drive_link)
 
