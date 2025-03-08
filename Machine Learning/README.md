@@ -13,7 +13,6 @@ CodSoft Machine Learning Internship (dec-15-2024  -->  jan-15-2025)
 [Dataset](https://drive.google.com/drive/folders/1neXU9EnhMex9dc0u670Am22n9XDII4ht?usp=drive_link)
 
 
-
 ## Credit Card Fraud Detection
 #### codsoft_2
 **Problem Statement:**  _Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate
